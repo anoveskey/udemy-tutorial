@@ -2,14 +2,6 @@
   text-align: center;
 }
 
-.album {
-  display: inline-block;
-  margin: 20px;
-  padding: 20px;
-  border: 1px solid #ccc;
-  box-shadow: 5px 10px #888888;
-}
-
 .currentListening {
   border: 2px solid darkred;
 }

@@ -1,0 +1,8 @@
+.album {
+    width: 50%;
+    /*display: inline-block;*/
+    margin: 16px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 5px 10px #888888;
+}
